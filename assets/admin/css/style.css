@@ -1,0 +1,17 @@
+#toplevel_page_blokhaus_dashboard .wp-menu-image img, #toplevel_page_blokhaus-real-estate .wp-menu-image img {
+    width: 20px; 
+    padding: 5px 0 0; 
+    opacity: 1;
+}
+
+ul.blokhaus-sortable-list li.ui-sortable-handle {
+    background-color: #004274;
+    margin-top: 5px;
+    padding: 10px 6px;
+    color: #fff;
+    vertical-align: middle;
+    cursor: pointer;
+}
+/*#the-list .thumbnail img:last-child{
+    display: none;
+}*/

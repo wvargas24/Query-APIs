@@ -1,0 +1,18 @@
+.header-with-search #header-section, 
+.header-with-search .advance-search-header{
+	z-index: 10;
+}
+#featured-carousel .label-status {
+    z-index: 3;
+    right: 12px;
+    top: 12px;
+    left: auto;
+    position: absolute;
+}
+#featured-carousel .label-color-25 {
+	background-color: #bcbcbc;
+    z-index: 3;
+    right: 77px;
+    top: 12px;
+    position: absolute;
+}
