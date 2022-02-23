@@ -6,7 +6,7 @@ Custom plugin to get all the properties of an external API and save them in the 
 - Creation of custom taxonomies
 - Creation of Plugin settings page
 - Creation of custom Widgets for advanced search and featured properties
-- Implementation of Advanced Custom Fields
+- Implementation of Advanced Custom Fields and Metaboxes 
 - Creation of custom templates for the theme (Single Post, Archive, taxonomy)
 - Creation of paginators, filters, layout, computers and tables in ajax
 - Shortcode Construction
@@ -32,6 +32,8 @@ Custom plugin to get all the properties of an external API and save them in the 
 - wp_remote_get
 - WP_Query
 - Mobile responsive
+- Bootstrap
+- API implementation
 
 ## Installation
 
